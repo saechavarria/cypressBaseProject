@@ -1,0 +1,23 @@
+{
+  "name": "cypressbaseproject",
+  "version": "1.0.0",
+  "description": "Base project for automation testing with cypress and js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saechavarria/cypressBaseProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saechavarria/cypressBaseProject/issues"
+  },
+  "homepage": "https://github.com/saechavarria/cypressBaseProject#readme",
+  "dependencies": {
+    "cypress": "^10.4.0"
+  }
+}
